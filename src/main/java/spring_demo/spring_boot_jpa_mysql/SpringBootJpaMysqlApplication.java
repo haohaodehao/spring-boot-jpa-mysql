@@ -1,4 +1,4 @@
-package java.spring_boot_jpa_mysql;
+package spring_demo.spring_boot_jpa_mysql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
